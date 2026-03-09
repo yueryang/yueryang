@@ -10,11 +10,11 @@ This is a full-time Ph.D. student at [Department of Computer Science](https://ww
   - Repository indexes: [https://github.com/yueryang/yueryang/blob/main/indexes.md](./indexes.md)
 - **Others**
   - Active only on the 8 following platforms: Google, ORCID, GitHub, Outlook, Telegram, WeChat, QQ, and Obi Island (others can be scammers)
-  - Marital status: Married in Hong Kong on May 20th, 2025
+  - Marital status: Married in Hong Kong, China on May 20th, 2025
   - Cultivation (from outer to inner) and philosophy (from inner to outer)
     - A good university should have no walls
     - Everything that benefits the universe should have no borders
-    - Freedom and equality: Every { particle $\rightarrow$ person $\rightarrow$ being $\rightarrow$ inspired object $\rightarrow$ civilization } should be free and equal
+    - Freedom and equality: Every { particle $\to$ person $\to$ being $\to$ inspired object $\to$ civilization } should be free and equal
 
 May you have a better tomorrow, and genuinely hope that every tiny corner of the giant universe can be entirely filled with ethereally dazzling starlight. 
 
