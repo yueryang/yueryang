@@ -9,7 +9,7 @@ Regarding open-source repositories for non-profile engineering, please refer to 
 This is an index to my GitHub repositories for academic purposes. 
 
 - Collections of different important topics
-  - A collection of cryptography schemes: [https://github.com/yueryang/Cryptography-Schemes](https://github.com/yueryang/Cryptography-Schemes)
+  - A collection of cryptographic schemes: [https://github.com/yueryang/Cryptographic-Schemes](https://github.com/yueryang/Cryptographic-Schemes)
   - A collection of top-$k$ optimal pattern mining algorithms: [https://github.com/yueryang/topKMining](https://github.com/yueryang/topKMining)
   - A collection of top-$k$ nearest neighbor (NN) querying algorithms: [https://github.com/yueryang/KNNAlgorithms](https://github.com/yueryang/KNNAlgorithms)
 - Repositories created for academic papers
@@ -57,23 +57,25 @@ This is an index of GitHub repositories I have ever contributed to, plan to cont
 This is an index to my GitHub repositories about university tools. 
 
 - Undergraduate
-  - Coding in my first term: [https://github.com/yueryang/MyFirstTerm](https://github.com/yueryang/MyFirstTerm)
-  - Coding in my second term: [https://github.com/yueryang/MySecondTerm](https://github.com/yueryang/MySecondTerm)
-  - Coding in my third term: [https://github.com/yueryang/MyThirdTerm](https://github.com/yueryang/MyThirdTerm)
-  - Coding in my fourth term: [https://github.com/yueryang/MyFourthTerm](https://github.com/yueryang/MyFourthTerm)
-  - Coding in my fifth term: [https://github.com/yueryang/MyFifthTerm](https://github.com/yueryang/MyFifthTerm)
-    - ``img_info_entropy`` written in my fifth term: [https://github.com/yueryang/img_info_entropy](https://github.com/yueryang/img_info_entropy)
-  - Coding in my sixth term: [https://github.com/yueryang/MySixthTerm](https://github.com/yueryang/MySixthTerm)
-  - LaTeX template of thesis: [https://github.com/yueryang/LaTeX4JNUBachelor](https://github.com/yueryang/LaTeX4JNUBachelor) (Archived)
-  - Some ACM AC'ed solutions: [https://github.com/yueryang/someAC](https://github.com/yueryang/someAC)
-  - Some projects from my minor: [https://github.com/yueryang/macroPrudential](https://github.com/yueryang/macroPrudential) (Archived)
-  - Other useful tools for my undergraduate institute: [https://github.com/yueryang/ToolsBox](https://github.com/yueryang/ToolsBox) forked from [https://github.com/HengY1Cola/ToolsBox](https://github.com/HengY1Cola/ToolsBox)
+  - Major: Cyber Security
+    - Coding in my first term: [https://github.com/yueryang/MyFirstTerm](https://github.com/yueryang/MyFirstTerm)
+    - Coding in my second term: [https://github.com/yueryang/MySecondTerm](https://github.com/yueryang/MySecondTerm)
+    - Coding in my third term: [https://github.com/yueryang/MyThirdTerm](https://github.com/yueryang/MyThirdTerm)
+    - Coding in my fourth term: [https://github.com/yueryang/MyFourthTerm](https://github.com/yueryang/MyFourthTerm)
+    - Coding in my fifth term: [https://github.com/yueryang/MyFifthTerm](https://github.com/yueryang/MyFifthTerm)
+      - ``img_info_entropy`` written in my fifth term: [https://github.com/yueryang/img_info_entropy](https://github.com/yueryang/img_info_entropy)
+    - Coding in my sixth term: [https://github.com/yueryang/MySixthTerm](https://github.com/yueryang/MySixthTerm)
+    - Some ACM AC'ed solutions: [https://github.com/yueryang/someAC](https://github.com/yueryang/someAC)
+  - Minor: Finance
+    - Some projects from my minor: [https://github.com/yueryang/macroPrudential](https://github.com/yueryang/macroPrudential) (Archived)
+  - LaTeX template for the bachelor thesis: [https://github.com/yueryang/LaTeX4JNUBachelor](https://github.com/yueryang/LaTeX4JNUBachelor) (Archived)
+  - Useful tools for my undergraduate institute: [https://github.com/yueryang/ToolsBox](https://github.com/yueryang/ToolsBox) forked from [https://github.com/HengY1Cola/ToolsBox](https://github.com/HengY1Cola/ToolsBox)
 - Ph.D.
   - FinTech (CCST9080)
-    - 2023-2024-2: [https://github.com/yueryang/FinTech_CCST9080_2023-2024-2](https://github.com/yueryang/FinTech_CCST9080_2023-2024-2)
-    - 2024-2025-2: [https://github.com/yueryang/FinTech_CCST9080_2024-2025-2](https://github.com/yueryang/FinTech_CCST9080_2024-2025-2)
+    - 2023-2024-2: [https://github.com/yueryang/FinTech_CCST9080_2023-2024-2](https://github.com/yueryang/FinTech_CCST9080_2023-2024-2) (Archived)
+    - 2024-2025-2: [https://github.com/yueryang/FinTech_CCST9080_2024-2025-2](https://github.com/yueryang/FinTech_CCST9080_2024-2025-2) (Archived)
   - CEDARS Anti Scam Learning Kit: [https://github.com/yueryang/CEDARS-Anti-Scam-Learning-Kit](https://github.com/yueryang/CEDARS-Anti-Scam-Learning-Kit) (Archived)
-  - DEC AI Literacy Course: [https://github.com/yueryang/DEC-AI-Literacy-Course](https://github.com/yueryang/DEC-AI-Literacy-Course)
+  - DEC AI Literacy Course: [https://github.com/yueryang/DEC-AI-Literacy-Course](https://github.com/yueryang/DEC-AI-Literacy-Course) (Archived)
 
 ### Homepages
 
