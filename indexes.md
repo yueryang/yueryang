@@ -76,6 +76,7 @@ This is an index to my GitHub repositories about university tools.
     - 2024-2025-2: [https://github.com/yueryang/FinTech_CCST9080_2024-2025-2](https://github.com/yueryang/FinTech_CCST9080_2024-2025-2) (Archived)
   - CEDARS Anti Scam Learning Kit: [https://github.com/yueryang/CEDARS-Anti-Scam-Learning-Kit](https://github.com/yueryang/CEDARS-Anti-Scam-Learning-Kit) (Archived)
   - DEC AI Literacy Course: [https://github.com/yueryang/DEC-AI-Literacy-Course](https://github.com/yueryang/DEC-AI-Literacy-Course) (Archived)
+  - DMP: [https://github.com/yueryang/thesis](https://github.com/yueryang/thesis)
 
 ### Homepages
 
