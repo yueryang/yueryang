@@ -70,7 +70,7 @@ This is an index to my GitHub repositories about university tools.
     - Some projects from my minor: [https://github.com/yueryang/macroPrudential](https://github.com/yueryang/macroPrudential) (Archived)
   - LaTeX template for the bachelor thesis: [https://github.com/yueryang/LaTeX4JNUBachelor](https://github.com/yueryang/LaTeX4JNUBachelor) (Archived)
   - Useful tools for my undergraduate institute: [https://github.com/yueryang/ToolsBox](https://github.com/yueryang/ToolsBox) forked from [https://github.com/HengY1Cola/ToolsBox](https://github.com/HengY1Cola/ToolsBox)
-- Ph.D.
+- Ph.D. 
   - FinTech (CCST9080)
     - 2023-2024-2: [https://github.com/yueryang/FinTech_CCST9080_2023-2024-2](https://github.com/yueryang/FinTech_CCST9080_2023-2024-2) (Archived)
     - 2024-2025-2: [https://github.com/yueryang/FinTech_CCST9080_2024-2025-2](https://github.com/yueryang/FinTech_CCST9080_2024-2025-2) (Archived)
@@ -83,4 +83,4 @@ This is an index to my GitHub repositories about university tools.
 This is an index of my GitHub homepage repositories. 
 
 - Sources of my GitHub homepage (this repository): [https://github.com/yueryang/yueryang](https://github.com/yueryang/yueryang) (many thanks to [@yujincheng08](https://github.com/yujincheng08) for her/his API)
-- Sources of a springboard to my GitHub homepage: [https://github.com/yueryang/batchclayderman.github.io](https://github.com/yueryang/batchclayderman.github.io)
+- Sources of a springboard to my GitHub homepage: [https://github.com/yueryang/yueryang.github.io](https://github.com/yueryang/yueryang.github.io)
